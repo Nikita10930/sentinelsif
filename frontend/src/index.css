@@ -1,0 +1,91 @@
+:root {
+  /* Color Palette - SCADA Ops Command Center */
+  --bg-base: #0b0f14;
+  --bg-panel: #131922;
+  --bg-panel-hover: #18202c;
+  --bg-card: #151c27;
+  --border-color: #1e293b;
+  --border-highlight: #2a384e;
+
+  /* Accents */
+  --cyan-primary: #22d3ee;
+  --cyan-glow: rgba(34, 211, 238, 0.25);
+  --cyan-dim: rgba(34, 211, 238, 0.1);
+
+  --red-critical: #ef4444;
+  --red-glow: rgba(239, 68, 68, 0.3);
+  --red-dim: rgba(239, 68, 68, 0.12);
+
+  --amber-warning: #f59e0b;
+  --amber-glow: rgba(245, 158, 11, 0.25);
+  --amber-dim: rgba(245, 158, 11, 0.12);
+
+  --green-safe: #10b981;
+  --green-glow: rgba(16, 185, 129, 0.25);
+  --green-dim: rgba(16, 185, 129, 0.12);
+
+  /* Typography */
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Sizing & Borders */
+  --sidebar-width: 260px;
+  --topbar-height: 64px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  line-height: 1.5;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-highlight);
+  border-radius: var(--radius-sm);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Helper Font Classes */
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* Subtle Industrial Background Grid */
+#root {
+  min-height: 100vh;
+  background-color: var(--bg-base);
+  background-image: linear-gradient(
+      to right,
+      rgba(30, 41, 59, 0.2) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(30, 41, 59, 0.2) 1px, transparent 1px);
+  background-size: 32px 32px;
+}

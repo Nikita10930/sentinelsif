@@ -1,0 +1,19 @@
+# Python (backend)
+backend/.venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+backend/.env
+backend/sentinelsif.db
+
+# Node (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

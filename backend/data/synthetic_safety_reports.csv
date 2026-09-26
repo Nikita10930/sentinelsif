@@ -1,0 +1,291 @@
+report_id,date,department,location,description,hazard_type,severity
+1,2026-08-02,Warehouse,Maintenance Shed,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+2,2026-06-13,Electrical,Boiler Room,"Panel ke paas loose wire dikha, thoda spark bhi hua tha kal.",Electrical,Medium
+3,2026-06-19,Control Room,Maintenance Shed,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+4,2026-07-24,Refinery Ops,Pipeline Junction 7,"Vibration bahut zyada lag rahi thi motor mein, operator ne complaint ki.",Machinery,Medium
+5,2026-06-25,Loading Bay,Storage Yard,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+6,2026-07-09,Pipeline Maintenance,Chemical Store Room,Safety interlock switch bypass kiya gaya tha production speed ke liye.,Machinery,High
+7,2026-07-02,Workshop,Chemical Store Room,"Ek switch board ka cover missing tha, andar ke wires khule the.",Electrical,High
+8,2026-06-29,Electrical,Field Camp 1,"Emergency exit blocked tha boxes se, agar fire lage toh evacuation mushkil hogi.",Fire,Medium
+9,2026-08-26,Loading Bay,Loading Dock B,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+10,2026-08-10,Well Site Ops,Boiler Room,"Empty chemical containers not disposed properly, lying near the entrance.",Chemical,Low
+11,2026-06-30,Warehouse,Boiler Room,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+12,2026-08-24,Pipeline Maintenance,Pump House A,Hot work permit ke bina cutting ka kaam ho raha tha oil tank ke paas.,Fire,High
+13,2026-08-30,Loading Bay,Maintenance Shed,Kisi ne bina helmet ke rotating machine ke paas kaam kiya.,Machinery,High
+14,2026-06-26,Warehouse,Pipeline Junction 7,"Spill of unknown liquid near the tank, not cleaned up immediately.",Chemical,High
+15,2026-07-05,Warehouse,Pipeline Junction 7,Worker without gloves handling acid containers during transfer.,Chemical,High
+16,2026-08-08,Pipeline Maintenance,Substation 4,"Candle jal rahi thi office cabin mein during power cut, unattended thi.",Fire,Low
+17,2026-07-20,Control Room,Pump House A,Fire alarm test hua tha lekin ek zone ka alarm respond nahi kar raha.,Fire,Medium
+18,2026-06-05,Well Site Ops,Boiler Room,"Conveyor belt was making unusual grinding noise, operator continued running it anyway.",Machinery,Medium
+19,2026-06-09,Well Site Ops,Main Plant Floor,"Worker ne bina gloves ke live wire chhoo liya, halka shock laga.",Electrical,High
+20,2026-08-29,Electrical,Chemical Store Room,MSDS sheet missing for a new chemical received last week.,Chemical,Low
+21,2026-08-23,Drilling,Substation 4,Oily rags left near heater in the maintenance shed overnight.,Fire,High
+22,2026-07-08,Well Site Ops,Chemical Store Room,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+23,2026-07-14,Electrical,Chemical Store Room,Height pe kaam karte waqt safety harness properly clip nahi kiya tha worker ne.,Fall,High
+24,2026-09-03,Pipeline Maintenance,Substation 4,"Old wiring in the workshop looks worn out, insulation peeling off in places.",Electrical,Medium
+25,2026-06-04,Workshop,Tank Farm 2,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+26,2026-09-03,Workshop,Loading Dock B,"Spill of unknown liquid near the tank, not cleaned up immediately.",Chemical,High
+27,2026-07-09,Control Room,Field Camp 1,Kisi ne bina helmet ke rotating machine ke paas kaam kiya.,Machinery,High
+28,2026-07-04,Loading Bay,Storage Yard,"Cable tray mein dust jama tha, overheating ka chance lag raha hai.",Electrical,Medium
+29,2026-07-10,Chemical Handling,Site Gate,"Welding spark gir gaya tha cotton waste ke paas, thoda dhuaan uthta dekha.",Fire,High
+30,2026-07-03,Control Room,Pipeline Junction 7,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+31,2026-06-26,Workshop,Field Camp 1,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+32,2026-07-21,Electrical,Main Plant Floor,Stairs handrail is loose on the second floor near the control room.,Fall,Medium
+33,2026-08-08,Pipeline Maintenance,Pump House A,Height pe kaam karte waqt safety harness properly clip nahi kiya tha worker ne.,Fall,High
+34,2026-06-05,Drilling,Pipeline Junction 7,"Worker ne bina gloves ke live wire chhoo liya, halka shock laga.",Electrical,High
+35,2026-07-22,Pipeline Maintenance,Rig Site 3,"Candle jal rahi thi office cabin mein during power cut, unattended thi.",Fire,Low
+36,2026-08-31,Electrical,Substation 4,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+37,2026-08-16,Workshop,Maintenance Shed,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+38,2026-07-17,Control Room,Compressor Station,"Cable tray mein dust jama tha, overheating ka chance lag raha hai.",Electrical,Medium
+39,2026-09-03,Pipeline Maintenance,Rig Site 3,Socket loose tha aur spark nikal raha tha jab plug lagaya.,Electrical,High
+40,2026-06-15,Drilling,Boiler Room,"Panel ke paas loose wire dikha, thoda spark bhi hua tha kal.",Electrical,Medium
+41,2026-08-14,Warehouse,Storage Yard,"Conveyor belt was making unusual grinding noise, operator continued running it anyway.",Machinery,Medium
+42,2026-06-10,Control Room,Boiler Room,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+43,2026-06-18,Pipeline Maintenance,Site Gate,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+44,2026-06-17,Workshop,Wellhead 12,"Welding spark gir gaya tha cotton waste ke paas, thoda dhuaan uthta dekha.",Fire,High
+45,2026-06-09,Electrical,Chemical Store Room,Grounding wire disconnected paya gaya near the generator.,Electrical,High
+46,2026-06-15,Workshop,Rig Site 3,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+47,2026-07-20,Well Site Ops,Rig Site 3,Ladder was placed on uneven ground while worker was climbing to check pipeline.,Fall,High
+48,2026-06-01,Warehouse,Rig Site 3,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+49,2026-07-12,Control Room,Substation 4,MSDS sheet missing for a new chemical received last week.,Chemical,Low
+50,2026-07-23,Workshop,Site Gate,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+51,2026-06-08,Workshop,Storage Yard,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+52,2026-06-29,Control Room,Site Gate,"Empty chemical containers not disposed properly, lying near the entrance.",Chemical,Low
+53,2026-06-09,Chemical Handling,Main Plant Floor,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+54,2026-07-05,Loading Bay,Compressor Station,"Ek switch board ka cover missing tha, andar ke wires khule the.",Electrical,High
+55,2026-09-03,Workshop,Chemical Store Room,Two incompatible chemicals stored side by side in the same rack.,Chemical,High
+56,2026-06-05,Refinery Ops,Maintenance Shed,"Conveyor belt was making unusual grinding noise, operator continued running it anyway.",Machinery,Medium
+57,2026-08-27,Refinery Ops,Wellhead 12,"Fire extinguisher expired hai storage room mein, kisi ne notice nahi kiya tha.",Fire,Medium
+58,2026-07-11,Chemical Handling,Chemical Store Room,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+59,2026-08-06,Warehouse,Wellhead 12,Worker complained of mild irritation after handling cleaning solvent without gloves.,Chemical,Medium
+60,2026-08-05,Chemical Handling,Substation 4,Emergency stop button jam ho gaya tha compressor unit pe.,Machinery,High
+61,2026-08-31,Control Room,Site Gate,"Extension cord bina insulation ke floor pe pada tha, paani ke paas.",Electrical,High
+62,2026-08-25,Warehouse,Compressor Station,Hot work permit ke bina cutting ka kaam ho raha tha oil tank ke paas.,Fire,High
+63,2026-09-04,Well Site Ops,Substation 4,Safety interlock switch bypass kiya gaya tha production speed ke liye.,Machinery,High
+64,2026-06-13,Pipeline Maintenance,Compressor Station,"Panel ke paas loose wire dikha, thoda spark bhi hua tha kal.",Electrical,Medium
+65,2026-08-10,Drilling,Substation 4,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+66,2026-07-08,Chemical Handling,Pump House A,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+67,2026-06-30,Refinery Ops,Storage Yard,Worker without gloves handling acid containers during transfer.,Chemical,High
+68,2026-07-10,Refinery Ops,Rig Site 3,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+69,2026-08-15,Chemical Handling,Rig Site 3,"Welding spark gir gaya tha cotton waste ke paas, thoda dhuaan uthta dekha.",Fire,High
+70,2026-08-06,Well Site Ops,Rig Site 3,Machine guard hata diya gaya tha cleaning ke liye aur wapas nahi lagaya.,Machinery,High
+71,2026-08-24,Pipeline Maintenance,Compressor Station,Height pe kaam karte waqt safety harness properly clip nahi kiya tha worker ne.,Fall,High
+72,2026-07-31,Refinery Ops,Chemical Store Room,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+73,2026-07-26,Electrical,Main Plant Floor,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+74,2026-08-21,Pipeline Maintenance,Field Camp 1,Socket loose tha aur spark nikal raha tha jab plug lagaya.,Electrical,High
+75,2026-06-08,Well Site Ops,Site Gate,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+76,2026-08-21,Warehouse,Loading Dock B,"Cable tray mein dust jama tha, overheating ka chance lag raha hai.",Electrical,Medium
+77,2026-06-29,Pipeline Maintenance,Pipeline Junction 7,Oily rags left near heater in the maintenance shed overnight.,Fire,High
+78,2026-09-01,Loading Bay,Field Camp 1,Eyewash station near chemical area is not functioning properly.,Chemical,Medium
+79,2026-08-16,Drilling,Pump House A,Emergency stop button jam ho gaya tha compressor unit pe.,Machinery,High
+80,2026-06-28,Refinery Ops,Chemical Store Room,Two incompatible chemicals stored side by side in the same rack.,Chemical,High
+81,2026-06-05,Electrical,Pump House A,"Smoking material found near flammable storage area, strictly against rules.",Fire,High
+82,2026-06-22,Loading Bay,Maintenance Shed,"Fire extinguisher expired hai storage room mein, kisi ne notice nahi kiya tha.",Fire,Medium
+83,2026-06-18,Electrical,Pipeline Junction 7,"Minor flickering in lights noticed near junction box, no immediate danger.",Electrical,Low
+84,2026-06-23,Workshop,Wellhead 12,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+85,2026-08-14,Electrical,Rig Site 3,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+86,2026-06-12,Control Room,Tank Farm 2,Worker complained of mild irritation after handling cleaning solvent without gloves.,Chemical,Medium
+87,2026-06-01,Control Room,Main Plant Floor,"Ek transformer se halki awaaz aa rahi thi, maintenance team ko bola.",Electrical,Medium
+88,2026-06-01,Workshop,Site Gate,"Emergency exit blocked tha boxes se, agar fire lage toh evacuation mushkil hogi.",Fire,Medium
+89,2026-08-01,Drilling,Field Camp 1,Machine ke paas paani jama tha aur floor bahut slippery ho gaya tha.,Fall,Medium
+90,2026-06-14,Drilling,Site Gate,"Halki si smell aa rahi thi chemical storage area se, ventilation check nahi hua.",Chemical,Medium
+91,2026-07-23,Chemical Handling,Compressor Station,Fire alarm test hua tha lekin ek zone ka alarm respond nahi kar raha.,Fire,Medium
+92,2026-08-20,Pipeline Maintenance,Boiler Room,"Emergency exit blocked tha boxes se, agar fire lage toh evacuation mushkil hogi.",Fire,Medium
+93,2026-06-08,Loading Bay,Compressor Station,"Empty chemical containers not disposed properly, lying near the entrance.",Chemical,Low
+94,2026-06-18,Workshop,Loading Dock B,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+95,2026-07-17,Control Room,Site Gate,Socket loose tha aur spark nikal raha tha jab plug lagaya.,Electrical,High
+96,2026-07-01,Pipeline Maintenance,Site Gate,Machine ke paas paani jama tha aur floor bahut slippery ho gaya tha.,Fall,Medium
+97,2026-08-26,Control Room,Pump House A,"Scaffolding platform pe railing missing thi, worker upar kaam kar raha tha.",Fall,High
+98,2026-08-07,Control Room,Loading Dock B,Fire alarm test hua tha lekin ek zone ka alarm respond nahi kar raha.,Fire,Medium
+99,2026-07-02,Pipeline Maintenance,Site Gate,Stairs handrail is loose on the second floor near the control room.,Fall,Medium
+100,2026-06-01,Workshop,Boiler Room,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+101,2026-07-16,Drilling,Site Gate,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+102,2026-08-11,Electrical,Chemical Store Room,"Ek switch board ka cover missing tha, andar ke wires khule the.",Electrical,High
+103,2026-07-25,Loading Bay,Main Plant Floor,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+104,2026-08-12,Well Site Ops,Pump House A,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+105,2026-08-09,Drilling,Substation 4,"Scaffolding platform pe railing missing thi, worker upar kaam kar raha tha.",Fall,High
+106,2026-07-06,Well Site Ops,Tank Farm 2,"Ek switch board ka cover missing tha, andar ke wires khule the.",Electrical,High
+107,2026-08-27,Workshop,Pipeline Junction 7,Socket loose tha aur spark nikal raha tha jab plug lagaya.,Electrical,High
+108,2026-06-15,Control Room,Maintenance Shed,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+109,2026-08-12,Drilling,Pipeline Junction 7,Hot work permit ke bina cutting ka kaam ho raha tha oil tank ke paas.,Fire,High
+110,2026-06-03,Chemical Handling,Loading Dock B,Sparks from grinder near paint storage noticed by shift supervisor.,Fire,High
+111,2026-08-20,Well Site Ops,Site Gate,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+112,2026-07-30,Refinery Ops,Main Plant Floor,"Cable spread across the walkway, tripping hazard for anyone walking by.",Fall,Low
+113,2026-07-02,Loading Bay,Compressor Station,Two incompatible chemicals stored side by side in the same rack.,Chemical,High
+114,2026-07-25,Pipeline Maintenance,Field Camp 1,"Circuit breaker baar baar trip ho raha hai, load zyada lag raha hai shayad.",Electrical,Medium
+115,2026-08-10,Pipeline Maintenance,Loading Dock B,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+116,2026-08-09,Chemical Handling,Site Gate,Eyewash station near chemical area is not functioning properly.,Chemical,Medium
+117,2026-07-26,Electrical,Tank Farm 2,"Vibration bahut zyada lag rahi thi motor mein, operator ne complaint ki.",Machinery,Medium
+118,2026-08-05,Pipeline Maintenance,Main Plant Floor,"Halki si smell aa rahi thi chemical storage area se, ventilation check nahi hua.",Chemical,Medium
+119,2026-07-07,Refinery Ops,Main Plant Floor,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+120,2026-07-27,Warehouse,Storage Yard,Stairs handrail is loose on the second floor near the control room.,Fall,Medium
+121,2026-07-08,Pipeline Maintenance,Maintenance Shed,"Cable tray mein dust jama tha, overheating ka chance lag raha hai.",Electrical,Medium
+122,2026-07-11,Control Room,Maintenance Shed,Height pe kaam karte waqt safety harness properly clip nahi kiya tha worker ne.,Fall,High
+123,2026-08-19,Drilling,Loading Dock B,"Scaffolding platform pe railing missing thi, worker upar kaam kar raha tha.",Fall,High
+124,2026-07-29,Electrical,Pipeline Junction 7,Machine bina lockout tagout ke maintenance ke liye khola gaya.,Machinery,High
+125,2026-06-25,Drilling,Substation 4,"Pump seal leaking slightly, maintenance not yet informed.",Machinery,Low
+126,2026-08-01,Well Site Ops,Loading Dock B,Ladder was placed on uneven ground while worker was climbing to check pipeline.,Fall,High
+127,2026-07-27,Electrical,Main Plant Floor,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+128,2026-07-11,Warehouse,Loading Dock B,Ladder was placed on uneven ground while worker was climbing to check pipeline.,Fall,High
+129,2026-07-31,Control Room,Field Camp 1,"Fire extinguisher expired hai storage room mein, kisi ne notice nahi kiya tha.",Fire,Medium
+130,2026-07-20,Chemical Handling,Main Plant Floor,Chemical drum bina label ke rakha tha store room mein.,Chemical,Medium
+131,2026-08-09,Electrical,Site Gate,Fire alarm test hua tha lekin ek zone ka alarm respond nahi kar raha.,Fire,Medium
+132,2026-08-03,Electrical,Substation 4,"Worker ne bina gloves ke live wire chhoo liya, halka shock laga.",Electrical,High
+133,2026-06-21,Electrical,Main Plant Floor,"Old crane hook showing visible wear, inspection tag expired last month.",Machinery,Medium
+134,2026-08-01,Control Room,Compressor Station,Chemical drum bina label ke rakha tha store room mein.,Chemical,Medium
+135,2026-08-20,Pipeline Maintenance,Chemical Store Room,"Smoking material found near flammable storage area, strictly against rules.",Fire,High
+136,2026-06-02,Workshop,Boiler Room,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+137,2026-06-04,Workshop,Field Camp 1,"Extension cord bina insulation ke floor pe pada tha, paani ke paas.",Electrical,High
+138,2026-08-02,Pipeline Maintenance,Chemical Store Room,"Welding spark gir gaya tha cotton waste ke paas, thoda dhuaan uthta dekha.",Fire,High
+139,2026-07-01,Pipeline Maintenance,Maintenance Shed,"Gas leak smell aa rahi thi compressor area mein, koi flame source bhi paas tha.",Fire,High
+140,2026-06-29,Workshop,Compressor Station,"Old wiring in the workshop looks worn out, insulation peeling off in places.",Electrical,Medium
+141,2026-07-14,Electrical,Wellhead 12,"Ek switch board ka cover missing tha, andar ke wires khule the.",Electrical,High
+142,2026-07-08,Electrical,Wellhead 12,"Exposed wiring near control panel, worker touched it accidentally while passing by.",Electrical,High
+143,2026-08-06,Chemical Handling,Loading Dock B,"Candle jal rahi thi office cabin mein during power cut, unattended thi.",Fire,Low
+144,2026-06-06,Control Room,Field Camp 1,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+145,2026-06-16,Loading Bay,Maintenance Shed,"Exposed wiring near control panel, worker touched it accidentally while passing by.",Electrical,High
+146,2026-07-23,Warehouse,Substation 4,"Vibration bahut zyada lag rahi thi motor mein, operator ne complaint ki.",Machinery,Medium
+147,2026-06-28,Drilling,Pump House A,"Exposed wiring near control panel, worker touched it accidentally while passing by.",Electrical,High
+148,2026-07-13,Refinery Ops,Chemical Store Room,Machine guard hata diya gaya tha cleaning ke liye aur wapas nahi lagaya.,Machinery,High
+149,2026-07-16,Refinery Ops,Tank Farm 2,"Worker ne bina gloves ke live wire chhoo liya, halka shock laga.",Electrical,High
+150,2026-08-09,Loading Bay,Pipeline Junction 7,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+151,2026-08-21,Drilling,Pump House A,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+152,2026-06-25,Pipeline Maintenance,Pipeline Junction 7,"Gas leak smell aa rahi thi compressor area mein, koi flame source bhi paas tha.",Fire,High
+153,2026-08-11,Loading Bay,Rig Site 3,"Empty chemical containers not disposed properly, lying near the entrance.",Chemical,Low
+154,2026-06-24,Pipeline Maintenance,Boiler Room,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+155,2026-08-29,Electrical,Storage Yard,Two incompatible chemicals stored side by side in the same rack.,Chemical,High
+156,2026-06-14,Electrical,Substation 4,"Pump seal leaking slightly, maintenance not yet informed.",Machinery,Low
+157,2026-08-17,Workshop,Boiler Room,"Small trash fire started near the gate, quickly put out by security.",Fire,Medium
+158,2026-07-11,Drilling,Chemical Store Room,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+159,2026-06-17,Workshop,Main Plant Floor,"Open manhole without barricade near the walkway, koi bhi gir sakta tha.",Fall,High
+160,2026-07-23,Loading Bay,Wellhead 12,Hot work permit ke bina cutting ka kaam ho raha tha oil tank ke paas.,Fire,High
+161,2026-07-04,Chemical Handling,Field Camp 1,"Worker ne bina gloves ke live wire chhoo liya, halka shock laga.",Electrical,High
+162,2026-06-21,Chemical Handling,Wellhead 12,"Fire extinguisher expired hai storage room mein, kisi ne notice nahi kiya tha.",Fire,Medium
+163,2026-07-01,Refinery Ops,Site Gate,Hydraulic hose was leaking oil onto the floor near the press machine.,Machinery,Medium
+164,2026-08-03,Refinery Ops,Maintenance Shed,"Extension cord bina insulation ke floor pe pada tha, paani ke paas.",Electrical,High
+165,2026-07-04,Refinery Ops,Substation 4,"Worker's sleeve got caught briefly near the rotating shaft, no injury this time.",Machinery,High
+166,2026-07-02,Warehouse,Wellhead 12,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+167,2026-08-27,Warehouse,Chemical Store Room,"Extension cord bina insulation ke floor pe pada tha, paani ke paas.",Electrical,High
+168,2026-07-14,Drilling,Compressor Station,"Fumes lag rahe the thoda strong lab area mein, exhaust fan band tha.",Chemical,Medium
+169,2026-07-26,Warehouse,Pipeline Junction 7,"PPE kit incomplete tha, ek worker bina mask ke solvent handle kar raha tha.",Chemical,High
+170,2026-07-02,Drilling,Rig Site 3,"Halki si smell aa rahi thi chemical storage area se, ventilation check nahi hua.",Chemical,Medium
+171,2026-08-23,Warehouse,Field Camp 1,"Floor tiles ukhad gaye hain warehouse mein, staff ko dikkat ho rahi hai.",Fall,Low
+172,2026-08-23,Electrical,Chemical Store Room,"Circuit breaker baar baar trip ho raha hai, load zyada lag raha hai shayad.",Electrical,Medium
+173,2026-07-11,Chemical Handling,Field Camp 1,"Conveyor belt was making unusual grinding noise, operator continued running it anyway.",Machinery,Medium
+174,2026-06-18,Pipeline Maintenance,Loading Dock B,"Spill of unknown liquid near the tank, not cleaned up immediately.",Chemical,High
+175,2026-08-14,Warehouse,Chemical Store Room,"Circuit breaker baar baar trip ho raha hai, load zyada lag raha hai shayad.",Electrical,Medium
+176,2026-07-23,Refinery Ops,Site Gate,Kisi ne bina helmet ke rotating machine ke paas kaam kiya.,Machinery,High
+177,2026-06-01,Refinery Ops,Loading Dock B,Fire alarm test hua tha lekin ek zone ka alarm respond nahi kar raha.,Fire,Medium
+178,2026-06-14,Pipeline Maintenance,Site Gate,"Wet floor sign nahi laga tha spill ke baad, ek worker phisalte phisalte bacha.",Fall,Medium
+179,2026-08-14,Well Site Ops,Compressor Station,"Spill of unknown liquid near the tank, not cleaned up immediately.",Chemical,High
+180,2026-07-13,Well Site Ops,Compressor Station,Worker without gloves handling acid containers during transfer.,Chemical,High
+181,2026-09-05,Electrical,Substation 4,"Loose electrical wire sparking near generator panel.",Electrical,High
+182,2026-09-05,Electrical,Boiler Room,"Exposed cable near switchboard causing minor shock to technician.",Electrical,High
+183,2026-09-06,Electrical,Substation 4,"Bijli ka tar khula pada tha maintenance shed mein.",Electrical,Medium
+184,2026-09-06,Control Room,Main Plant Floor,"Circuit breaker tripped repeatedly due to overheating panel.",Electrical,Medium
+185,2026-09-07,Electrical,Compressor Station,"Worker received mild shock while operating faulty socket.",Electrical,Medium
+186,2026-09-07,Electrical,Substation 4,"Short circuit noticed near control room wiring.",Electrical,High
+187,2026-09-08,Electrical,Boiler Room,"Grounding wire disconnected from main electrical panel.",Electrical,High
+188,2026-09-08,Electrical,Substation 4,"Voltage fluctuation damaged equipment near substation.",Electrical,Low
+189,2026-09-05,Chemical Handling,Tank Farm 2,"Small fire broke out near storage cylinder area.",Fire,High
+190,2026-09-05,Chemical Handling,Chemical Store Room,"Smoking near flammable chemical storage zone reported.",Fire,High
+191,2026-09-06,Refinery Ops,Boiler Room,"Heater left unattended caused smoke in break room.",Fire,Medium
+192,2026-09-06,Chemical Handling,Tank Farm 2,"Explosion risk flagged near gas cylinder stack.",Fire,High
+193,2026-09-07,Loading Bay,Loading Dock B,"Worker seen smoking close to fuel tanks.",Fire,High
+194,2026-09-07,Workshop,Main Plant Floor,"Flame noticed near welding station without proper shield.",Fire,High
+195,2026-09-08,Chemical Handling,Storage Yard,"Aag lagne ka khatra dikha storage area ke paas.",Fire,High
+196,2026-09-08,Refinery Ops,Boiler Room,"Burning smell detected near electrical control unit.",Fire,Medium
+197,2026-09-05,Warehouse,Loading Dock B,"Worker slipped on wet walkway near loading dock.",Fall,Medium
+198,2026-09-05,Drilling,Rig Site 3,"Ladder was unstable causing near-fall incident on site.",Fall,High
+199,2026-09-06,Well Site Ops,Wellhead 12,"Gir gaya worker platform se neeche.",Fall,High
+200,2026-09-06,Pipeline Maintenance,Pipeline Junction 7,"Missing railing near elevated platform reported.",Fall,High
+201,2026-09-07,Drilling,Rig Site 3,"Scaffolding not secured properly at construction zone.",Fall,High
+202,2026-09-07,Warehouse,Storage Yard,"Employee tripped over loose cable on walkway.",Fall,Low
+203,2026-09-08,Well Site Ops,Site Gate,"Manhole cover left open near pedestrian path.",Fall,High
+204,2026-09-08,Workshop,Main Plant Floor,"Worker slipped near spilled oil on factory floor.",Fall,Medium
+205,2026-09-05,Workshop,Main Plant Floor,"Conveyor belt jammed causing minor injury to operator.",Machinery,Medium
+206,2026-09-05,Pipeline Maintenance,Compressor Station,"Rotating shaft guard missing on old compressor unit.",Machinery,High
+207,2026-09-06,Drilling,Rig Site 3,"Crane hook showing signs of wear and fatigue.",Machinery,Medium
+208,2026-09-06,Pipeline Maintenance,Pump House A,"Pump motor overheating during continuous operation.",Machinery,Low
+209,2026-09-07,Workshop,Main Plant Floor,"Worker hand caught briefly in conveyor mechanism.",Machinery,High
+210,2026-09-07,Pipeline Maintenance,Compressor Station,"Gear box making unusual grinding noise during shift.",Machinery,Low
+211,2026-09-08,Workshop,Main Plant Floor,"Machine guard removed for cleaning without lockout.",Machinery,High
+212,2026-09-08,Pipeline Maintenance,Compressor Station,"Compressor belt slipped off during operation.",Machinery,Low
+213,2026-09-05,Chemical Handling,Chemical Store Room,"Chemical spill reported near storage tank area.",Chemical,High
+214,2026-09-05,Refinery Ops,Tank Farm 2,"Toxic fumes detected near processing unit.",Chemical,High
+215,2026-09-06,Pipeline Maintenance,Pipeline Junction 7,"Acid leak noticed from corroded pipeline joint.",Chemical,High
+216,2026-09-06,Chemical Handling,Chemical Store Room,"Worker exposed to solvent vapors in poorly ventilated room.",Chemical,Medium
+217,2026-09-07,Well Site Ops,Wellhead 12,"Gas leak alarm triggered near refinery unit.",Chemical,High
+218,2026-09-07,Warehouse,Chemical Store Room,"Corrosive chemical spilled on warehouse floor.",Chemical,Medium
+219,2026-09-08,Chemical Handling,Chemical Store Room,"Mild chemical odor reported near mixing station.",Chemical,Low
+220,2026-09-08,Well Site Ops,Wellhead 12,"H2S gas detected near wellhead during routine check.",Chemical,High
+221,2026-09-09,Electrical,Substation 4,"Loose electrical wire sparking near generator panel, immediate danger to nearby workers.",Electrical,High
+222,2026-09-09,Electrical,Boiler Room,"Technician reported severe spark from exposed wire near main panel, urgent attention required.",Electrical,High
+223,2026-09-09,Control Room,Main Plant Floor,"Circuit breaker tripped repeatedly, moderate concern that needs attention soon.",Electrical,Medium
+224,2026-09-10,Electrical,Compressor Station,"Faulty socket gave a very minor shock to worker during shift, negligible risk.",Electrical,Low
+225,2026-09-10,Electrical,Substation 4,"Wiring near control room found loose and sparking, serious risk of fire.",Electrical,High
+226,2026-09-10,Electrical,Boiler Room,"Grounding cable disconnected from panel, critical safety issue discovered during inspection.",Electrical,High
+227,2026-09-11,Electrical,Substation 4,"Slight voltage fluctuation noticed, minor and no immediate risk to equipment.",Electrical,Low
+228,2026-09-11,Control Room,Main Plant Floor,"Panel wire found slightly exposed near switchboard, moderate concern flagged for repair.",Electrical,Medium
+229,2026-09-09,Chemical Handling,Tank Farm 2,"Severe fire broke out again near storage cylinder zone, major danger to site.",Fire,High
+230,2026-09-09,Chemical Handling,Chemical Store Room,"Worker caught smoking near flammable storage area, critical safety violation.",Fire,High
+231,2026-09-10,Refinery Ops,Boiler Room,"Unattended heater caused noticeable smoke buildup, moderate concern in break room.",Fire,Medium
+232,2026-09-10,Loading Bay,Loading Dock B,"Worker smoking close to fuel tanks, serious and urgent fire risk.",Fire,High
+233,2026-09-11,Workshop,Main Plant Floor,"Welding station flame noticed without proper shielding, major hazard requiring immediate action.",Fire,High
+234,2026-09-11,Chemical Handling,Storage Yard,"Explosion risk near gas cylinder stack flagged again, critical and life-threatening.",Fire,High
+235,2026-09-09,Warehouse,Loading Dock B,"Wet walkway near loading dock, minor slip risk, routine observation only.",Fall,Low
+236,2026-09-09,Drilling,Rig Site 3,"Unstable ladder nearly caused a serious fall on site, immediate danger to worker.",Fall,High
+237,2026-09-10,Well Site Ops,Wellhead 12,"Worker fell from platform near wellhead area, severe injury risk reported.",Fall,High
+238,2026-09-10,Pipeline Maintenance,Pipeline Junction 7,"Elevated platform missing railing, critical safety gap needing urgent fix.",Fall,High
+239,2026-09-11,Drilling,Rig Site 3,"Scaffolding found unsecured, moderate concern that should be addressed soon.",Fall,Medium
+240,2026-09-11,Warehouse,Storage Yard,"Loose cable on walkway caused a very minor trip, negligible impact.",Fall,Low
+241,2026-09-09,Workshop,Main Plant Floor,"Conveyor belt jam caused a minor injury to operator, no immediate risk after stoppage.",Machinery,Low
+242,2026-09-09,Pipeline Maintenance,Compressor Station,"Old compressor unit missing rotating shaft guard, severe and critical safety hazard.",Machinery,High
+243,2026-09-10,Drilling,Rig Site 3,"Crane hook shows visible wear, moderate concern flagged for maintenance.",Machinery,Medium
+244,2026-09-10,Pipeline Maintenance,Pump House A,"Pump motor slightly overheating, minor issue with no immediate risk.",Machinery,Low
+245,2026-09-11,Workshop,Main Plant Floor,"Worker hand briefly caught in conveyor mechanism, serious injury risk, urgent review needed.",Machinery,High
+246,2026-09-11,Pipeline Maintenance,Compressor Station,"Gear box making unusual grinding noise, minor and routine maintenance issue.",Machinery,Low
+247,2026-09-09,Chemical Handling,Chemical Store Room,"Chemical spill reported near storage tank, severe and immediate danger to workers.",Chemical,High
+248,2026-09-09,Refinery Ops,Tank Farm 2,"Toxic fumes detected again near processing unit, critical health hazard.",Chemical,High
+249,2026-09-10,Pipeline Maintenance,Pipeline Junction 7,"Corroded pipeline joint leaking acid, major and urgent safety concern.",Chemical,High
+250,2026-09-10,Chemical Handling,Chemical Store Room,"Worker exposed to solvent vapors, moderate concern due to poor ventilation.",Chemical,Medium
+251,2026-09-11,Well Site Ops,Wellhead 12,"Gas leak alarm triggered near refinery unit, severe and life-threatening situation.",Chemical,High
+252,2026-09-11,Warehouse,Chemical Store Room,"Corrosive chemical spilled on warehouse floor, moderate risk requiring cleanup attention.",Chemical,Medium
+253,2026-09-12,Electrical,Substation 4,"Generator panel wire sparking noticed by night shift, immediate danger flagged.",Electrical,High
+254,2026-09-12,Chemical Handling,Tank Farm 2,"Small fire in cylinder storage area overnight, minor and contained quickly.",Fire,Low
+255,2026-09-12,Drilling,Rig Site 3,"Worker slipped near unstable ladder during inspection, serious fall risk noted.",Fall,High
+256,2026-09-12,Workshop,Main Plant Floor,"Conveyor mechanism briefly caught operator glove, minor incident with no injury.",Machinery,Low
+257,2026-09-12,Chemical Handling,Chemical Store Room,"Storage tank chemical spill noticed by supervisor, critical and urgent hazard.",Chemical,High
+258,2026-09-04,Well Site Ops,Wellhead 12,"H2S gas detected near wellhead during routine check, severe and life-threatening exposure risk.",Chemical,High
+259,2026-09-04,Warehouse,Storage Yard,"Mild chemical odor near mixing station, negligible and routine observation.",Chemical,Low
+260,2026-09-04,Control Room,Main Plant Floor,"Slight voltage spike near substation, minor and no immediate risk to equipment.",Electrical,Low
+261,2026-09-05,Workshop,Main Plant Floor,"Small dent noticed on tool cabinet door, cosmetic only, no safety impact.",Machinery,Low
+262,2026-09-05,Warehouse,Storage Yard,"Faded warning sign near storage racks, needs repainting eventually.",Fall,Low
+263,2026-09-06,Electrical,Boiler Room,"Flickering bulb near stairwell, minor annoyance, no wiring issue found.",Electrical,Low
+264,2026-09-06,Chemical Handling,Chemical Store Room,"Label on chemical drum slightly peeling off, still legible and safe.",Chemical,Low
+265,2026-09-07,Drilling,Rig Site 3,"Squeaky hinge on equipment locker door, purely mechanical noise.",Machinery,Low
+266,2026-09-07,Well Site Ops,Wellhead 12,"Dust accumulation on wellhead gauge, routine cleaning needed.",Chemical,Low
+267,2026-09-08,Warehouse,Loading Dock B,"Worn floor paint marking near loading area, low priority repaint.",Fall,Low
+268,2026-09-08,Control Room,Main Plant Floor,"Slightly loose cabinet handle in control room, no operational impact.",Electrical,Low
+269,2026-09-05,Pipeline Maintenance,Pump House A,"Small puddle of water near pump base, likely condensation, not a leak.",Machinery,Low
+270,2026-09-05,Refinery Ops,Tank Farm 2,"Faint chemical smell near tank farm, dissipated within minutes.",Chemical,Low
+271,2026-09-06,Workshop,Main Plant Floor,"Old first aid box needs restocking, no immediate hazard present.",Fall,Low
+272,2026-09-06,Loading Bay,Loading Dock B,"Cracked plastic cover on switchboard, cosmetic damage only.",Electrical,Low
+273,2026-09-07,Chemical Handling,Storage Yard,"Slightly dented empty drum found in storage yard, no spill.",Chemical,Low
+274,2026-09-07,Drilling,Rig Site 3,"Worn grip tape on ladder rung, still functional and safe to use.",Fall,Low
+275,2026-09-08,Pipeline Maintenance,Compressor Station,"Minor vibration noticed in idle equipment, within normal range.",Machinery,Low
+276,2026-09-08,Electrical,Substation 4,"Dusty ventilation fan near panel, scheduled for routine cleaning.",Electrical,Low
+277,2026-09-05,Well Site Ops,Site Gate,"Faded signage at site gate, replacement requested for next month.",Fall,Low
+278,2026-09-05,Warehouse,Chemical Store Room,"Empty containers stacked neatly, awaiting scheduled disposal pickup.",Chemical,Low
+279,2026-09-06,Workshop,Main Plant Floor,"Slight rattle in unused machine part, no active operation affected.",Machinery,Low
+280,2026-09-06,Control Room,Main Plant Floor,"Spare cable coil stored loosely, tidy-up needed but no hazard.",Electrical,Low
+281,2026-09-07,Refinery Ops,Boiler Room,"Old rust spot on non-load-bearing railing, cosmetic issue only.",Fall,Low
+282,2026-09-07,Chemical Handling,Chemical Store Room,"Unused chemical shelf slightly dusty, cleaning scheduled this week.",Chemical,Low
+283,2026-09-08,Drilling,Rig Site 3,"Worn label on spare parts bin, contents still correctly identified.",Machinery,Low
+284,2026-09-08,Pipeline Maintenance,Pipeline Junction 7,"Minor paint chipping on pipeline marker post, no structural concern.",Electrical,Low
+285,2026-09-09,Warehouse,Storage Yard,"Loose packaging strap on stored pallet, easily retied, no immediate risk.",Fall,Low
+286,2026-09-09,Well Site Ops,Wellhead 12,"Slightly worn glove found near wellhead, replacement stock available.",Chemical,Low
+287,2026-09-10,Workshop,Main Plant Floor,"Old sticker peeling off equipment casing, purely cosmetic wear.",Machinery,Low
+288,2026-09-10,Electrical,Boiler Room,"Spare fuse box slightly dusty, due for routine inspection only.",Electrical,Low
+289,2026-09-11,Chemical Handling,Storage Yard,"Faint odor near recycling bin, resolved after bin was emptied.",Chemical,Low
+290,2026-09-11,Drilling,Rig Site 3,"Minor scuff mark on safety barrier, no impact on its function.",Fall,Low
